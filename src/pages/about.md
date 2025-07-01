@@ -5,7 +5,7 @@ hero:
   - layout: ../layouts/AboutLayout.astro
     tags: dfg
     title: dfg
-    body: dfgdfg
+    body: dfgdfg / /
   - layout: ../layouts/AboutLayout.astro
     tags: Test
     title: asdasd
