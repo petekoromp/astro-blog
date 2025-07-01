@@ -3,6 +3,10 @@ layout: ../layouts/AboutLayout.astro
 title: About
 hero:
   - layout: ../layouts/AboutLayout.astro
+    tags: dfg
+    title: dfg
+    body: dfgdfg
+  - layout: ../layouts/AboutLayout.astro
     tags: Test
     title: asdasd
     body: "# sdasd"
