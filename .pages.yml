@@ -22,7 +22,7 @@ content:
       - { name: body, label: Body, type: rich-text }
   - name: about
     label: About page
-    type: file
+    type: object
     path: src/pages/about.md
     fields:
       - { name: layout, type: string, hidden: true, default: "../layouts/AboutLayout.astro" }
